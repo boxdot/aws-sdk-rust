@@ -136,5 +136,5 @@ features = ["test-util"]
 version = "0.55.3"
 
 [dev-dependencies.hyper-rustls]
-version = "0.23.0"
+version = "0.24.0"
 features = ["webpki-tokio", "http2", "http1"]

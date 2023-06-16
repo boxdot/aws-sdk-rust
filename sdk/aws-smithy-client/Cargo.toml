@@ -59,7 +59,7 @@ features = ["client", "http2", "http1", "tcp"]
 optional = true
 
 [dependencies.hyper-rustls]
-version = "0.23.0"
+version = "0.24.0"
 optional = true
 features = ["rustls-native-certs", "http2"]
 
@@ -68,7 +68,7 @@ version = "0.5.0"
 optional = true
 
 [dependencies.rustls]
-version = "0.20"
+version = "0.21"
 optional = true
 
 [dependencies.lazy_static]
